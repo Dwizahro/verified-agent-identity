@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'wiwin hariyanto'
         required: true
-        default: 'haruka'
+        default: 'wiwin hariyanto'
       agent_description:
         description: 'wiwin hariyanto'
         required: true
